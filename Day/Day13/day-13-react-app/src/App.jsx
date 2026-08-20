@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <NameInput/>
-
+      <NameInput/>
       <ToggleText />
 
       <Counter />
